@@ -1,0 +1,17 @@
+[
+  {
+    "id": "001",
+    "name": "course 1",
+    "credits": 3
+  },
+  {
+    "id": "002",
+    "name": "course 2",
+    "credits": 3
+  },
+  {
+    "id": "003",
+    "name": "course 3",
+    "credits": 4
+  }
+]
