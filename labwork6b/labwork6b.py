@@ -7,6 +7,7 @@ df = pd.read_csv("scores.csv")
 for course in ["math", "python", "database"]:
     plt.scatter(df[course], df["student_id"], label=course)
 plt.legend()
+plt.grid(True)
 plt.savefig("scattered.png")
 
 #histograms in 3 subplots
